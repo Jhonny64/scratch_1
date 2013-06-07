@@ -1,3 +1,9 @@
+/*
+ *@author Jon Blount
+ *A simple interface for a "game state."
+ *
+ */
+
 public interface State 
 {
      public int hashCode();
