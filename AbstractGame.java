@@ -4,10 +4,10 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 
 /*
+ * @author Jon Blount
  * This is a template class used to hold the main search algorithms and data 
  * structures for similar puzzle games (with a defined start state and end state). 
- 
- 
+ *
  */
 
 public abstract class AbstractGame<StateType extends State>
